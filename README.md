@@ -2,7 +2,7 @@
 
 ## Inspirations 💡
 
-We created the app as part of a course project in university, as a group of 8. 👨‍🎓👩‍🎓👨‍🎓👩‍🎓👨‍🎓👩‍🎓👨‍🎓👩‍🎓
+We created the app as part of a course project in university, as a group of 8. 👨‍🎓👩‍🎓
 
 ## Goal 🎯
 
@@ -25,3 +25,6 @@ Our app features divide into two parts, following our two user bases: 📲
 #### Students 👨‍🎓👩‍🎓:
 - Drag tasks in a kanban board, based on their statuses 📌
 - Add comments & resources on individual tasks 💬📎
+
+## Try It Now:
+https://project-tracker-133392.web.app/signin
